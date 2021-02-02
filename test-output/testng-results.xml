@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="49018" started-at="2020-12-22T00:44:33 EST" finished-at="2020-12-22T00:45:22 EST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="49018" started-at="2020-12-22T00:44:33 EST" finished-at="2020-12-22T00:45:22 EST">
+      <class name="parametarization.LoginStaticParameters">
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:parametarization.LoginStaticParameters@694e1548]" name="login" is-config="true" duration-ms="30483" started-at="2020-12-22T00:44:33 EST" finished-at="2020-12-22T00:45:04 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://leaftaps.com/opentaps/control/main]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[DemoSalesManager]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="loginStaticParameters(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:parametarization.LoginStaticParameters@694e1548]" name="loginStaticParameters" duration-ms="467" started-at="2020-12-22T00:45:04 EST" data-provider="getData" finished-at="2020-12-22T00:45:04 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TCS]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mamun]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Rahman]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginStaticParameters -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:parametarization.LoginStaticParameters@694e1548]" name="closeBrowser" is-config="true" duration-ms="57" started-at="2020-12-22T00:45:04 EST" finished-at="2020-12-22T00:45:04 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:parametarization.LoginStaticParameters@694e1548]" name="login" is-config="true" duration-ms="17478" started-at="2020-12-22T00:45:04 EST" finished-at="2020-12-22T00:45:22 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://leaftaps.com/opentaps/control/main]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[DemoSalesManager]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="loginStaticParameters(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:parametarization.LoginStaticParameters@694e1548]" name="loginStaticParameters" duration-ms="443" started-at="2020-12-22T00:45:22 EST" data-provider="getData" finished-at="2020-12-22T00:45:22 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ABC]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Hello]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Hi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginStaticParameters -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:parametarization.LoginStaticParameters@694e1548]" name="closeBrowser" is-config="true" duration-ms="48" started-at="2020-12-22T00:45:22 EST" finished-at="2020-12-22T00:45:22 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- parametarization.LoginStaticParameters -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
